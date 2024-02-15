@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Onur, a Computer Engineering student 👨‍💻</div>  
+### <div align="center">I'm Onur, a Computer Engineer 👨‍💻</div>  
   
 
-- 👨‍🎓 I’m currently a student on [Balıkesir Universty](http://www.balikesir.edu.tr/site/birim/bilgisayar-muhendisligi-bolumu-293094)  
+- 👨‍🎓 I graduated from Balıkesir University, computer engineering. on [Balıkesir Universty](http://www.balikesir.edu.tr/site/birim/bilgisayar-muhendisligi-bolumu-293094)  
   
 
 - 🌱 I’m currently learning Python and Kotlin  
