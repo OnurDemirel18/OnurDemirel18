@@ -6,7 +6,7 @@
 ### <div align="center">I'm Onur, a Computer Engineer 👨‍💻</div>  
   
 
-- 👨‍🎓 I graduated from Balıkesir University, computer engineering. on [Balıkesir Universty](http://www.balikesir.edu.tr/site/birim/bilgisayar-muhendisligi-bolumu-293094)  
+- 👨‍🎓 I graduated from [Balıkesir Universty](http://www.balikesir.edu.tr/site/birim/bilgisayar-muhendisligi-bolumu-293094), computer engineering.   
   
 
 - 🌱 I’m currently learning Python and Kotlin  
